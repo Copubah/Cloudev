@@ -20,6 +20,7 @@ I'm a passionate Cloud Engineer with expertise in designing and implementing sca
 
 
 ## 📚 Certifications
+- AWS Certified Cloud Practitioner 
 
 - AWS Certified Solutions Architect - Associate
   
